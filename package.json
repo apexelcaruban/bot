@@ -1,0 +1,18 @@
+{
+  "name": "wa-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp Bot with @hassanfuad/baileys-ios-webview",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@hassanfuad/baileys-ios-webview": "^7.3.6",
+    "chalk": "^5.6.2",
+    "chokidar": "^3.6.0",
+    "node-cache": "^5.1.2",
+    "node-fetch": "^3.3.2",
+    "pino": "^9.0.0"
+  }
+}
